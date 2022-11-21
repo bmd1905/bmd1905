@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmd1905&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmd1905&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-https://github-readme-stats.vercel.app/api/wakatime?username=bmd1905&langs_count=8&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmd1905&layout=compact&theme=tokyonight&html=ff2244&css=00000&scss=222222)](https://github.com/anuraghazra/github-readme-stats)
