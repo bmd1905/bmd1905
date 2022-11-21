@@ -1,16 +1,7 @@
-## About me 👋
-<!--
-**bmd1905/bmd1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🌱 I’m currently learning Data and AI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋About me 
+Hi, I'm a student at VNUHCM-University Of Science. I've been studying AI more than a year. Currently, I can build up Machine learning or Deep learning models for specific tasks; execute Data Preprocessing, Data Visualization; read and understand papers about DL; communicate and present in front of many people...
 
-
-## 🌐Socials
+# 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bmd1905) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bmd1905) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bmd1905) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bmd1905) 
 
 # 💻Tech Stack
@@ -20,7 +11,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bmd1905&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmd1905&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
+# ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
