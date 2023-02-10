@@ -15,7 +15,7 @@ Hi, I'm a student at VNUHCM-University Of Science. I've been studying AI for ove
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bmd1905&repo=Vietnamese-OCR&theme=dark" />
 </a> 
 
-<a href="https://github.com/bmd1905/De-makeup/">
+<a href="https://github.com/bmd1905/De-makeup">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bmd1905&repo=De-makeup&theme=dark" />
 </a>   
