@@ -12,37 +12,36 @@ Hi, I'm a student at VNUHCM-University Of Science. I've been studying AI for ove
 
 <a href="https://github.com/bmd1905/Vietnamese-OCR/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bmd1905&repo=Vietnamese-OCR&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=Vietnamese-OCR&theme=dark" />
 </a> 
 
-<a href="https://github.com/bmd1905/De-makeup">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bmd1905&repo=De-makeup&theme=dark" />
+<a href="https://github.com/bmd1905/De-makeup/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=De-makeup&theme=dark" />
 </a>   
 
 <a href="https://github.com/bmd1905/Image-Captioning/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bmd1905&repo=Image-Captioning&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=Image-Captioning&theme=dark" />
 </a> 
 
 <a href="https://github.com/bmd1905/Tiki-Books-Exploration/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bmd1905&repo=Tiki-Books-Exploration&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=Tiki-Books-Exploration&theme=dark" />
 </a> 
 
 <a href="https://github.com/bmd1905/Amazon-Book-Covers-Crawler/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bmd1905&repo=Amazon-Book-Covers-Crawler&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=Amazon-Book-Covers-Crawler&theme=dark" />
 </a>
 
 <a href="https://github.com/bmd1905/EDA-Clustering-Amazon-Data-Science-Books/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bmd1905&repo=EDA-Clustering-Amazon-Data-Science-Books&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=EDA-Clustering-Amazon-Data-Science-Books&theme=dark" />
 </a>
 
 <a href="https://github.com/bmd1905/Salary-of-Data-AI-Jobs-in-the-US/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bmd1905&repo=Salary-of-Data-AI-Jobs-in-the-US&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=Salary-of-Data-AI-Jobs-in-the-US&theme=dark" />
 </a>
 
 
