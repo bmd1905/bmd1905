@@ -34,14 +34,15 @@ Hi, I'm a student at VNUHCM-University Of Science. I've been studying AI for ove
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=Amazon-Book-Covers-Crawler&theme=dark" />
 </a>
 
-<a href="https://github.com/bmd1905/EDA-Clustering-Amazon-Data-Science-Books/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=EDA-Clustering-Amazon-Data-Science-Books&theme=dark" />
-</a>
-
 <a href="https://github.com/bmd1905/Salary-of-Data-AI-Jobs-in-the-US/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=Salary-of-Data-AI-Jobs-in-the-US&theme=dark" />
 </a>
+
+<a href="https://github.com/bmd1905/EDA-Amazon-Data-Science-Books/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=EDA-Amazon-Data-Science-Books&theme=dark" />
+</a>
+
 
 
