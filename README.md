@@ -26,9 +26,6 @@ Hi, I'm a sophomore student at VNUHCM - University of Science. I've been studyin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=vietnamese-ocr&theme=dark" />
 </a> 
 
-<a href="https://github.com/bmd1905/De-makeup/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=De-makeup&theme=dark" />
-</a>   
 
 <a href="https://github.com/bmd1905/Image-Captioning/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
