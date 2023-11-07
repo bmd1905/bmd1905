@@ -3,7 +3,6 @@ Hi, I'm a sophomore student at VNUHCM - University of Science. I've been studyin
 
  -->
 ### Hello there 👋
-* A sophomore student at VNUHCM - University of Science, and
 * A lifelong AI learner
 
 <!-- # Socials
