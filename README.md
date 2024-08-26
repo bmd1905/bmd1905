@@ -55,5 +55,3 @@ Hi, I'm a sophomore student at VNUHCM - University of Science. I've been studyin
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmd1905&repo=EDA-Amazon-Data-Science-Books&theme=dark" />
 </a> -->
-
-![Snake animation](https://raw.githubusercontent.com/bmd1905/bmd1905/output/github-contribution-grid-snake.svg)
