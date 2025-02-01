@@ -17,7 +17,7 @@ Hi, I'm a sophomore student at VNUHCM - University of Science. I've been studyin
 ![](https://github-readme-stats.vercel.app/api?username=bmd1905&theme=auto&hide_border=false&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true&hide_title=true&rank_icon=github&number_format=long&show=prs_merged_percentage)<br/>
 
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bmd1905&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=bmd1905&card_width=465&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
