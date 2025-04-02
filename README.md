@@ -5,7 +5,7 @@ Hi, I'm a sophomore student at VNUHCM - University of Science. I've been studyin
 ### Hello there 👋
 
 * My name is Duc
-* I define myself as a weird and self-educated person
+* I consider myself as a weird and self-educated person
 * I was a student at VNUHCM - University of Science, which was great, but being someone who seeks challenges, I decided to pursue a different path by dropping out of school
 
 # Socials
