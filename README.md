@@ -4,9 +4,8 @@ Hi, I'm a sophomore student at VNUHCM - University of Science. I've been studyin
  -->
 ### Hello there 👋
 
-* My name is Duc
-* I consider myself as a weird and self-educated person
-* I was a student at VNUHCM - University of Science, which was great, but being someone who seeks challenges, I decided to pursue a different path by dropping out of school
+* My name is Duc. I consider myself a curious and self-taught individual.
+* I previously studied at VNUHCM - University of Science. While I value that experience, my drive for new challenges led me to forge my own path outside of traditional academics.
 
 # Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bmd1905) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bmd1905) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bmd1905)
